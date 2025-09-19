@@ -1,6 +1,7 @@
 # Kérdések
 ## **_CSS_**
 ## Mi a css?
+A CSS (Cascading Style Sheets, magyarul: „lépcsőzetes stíluslapok”) a számítástechnikában egy stílusleíró nyelv, mely a HTML vagy XHTML típusú strukturált dokumentumok megjelenését írja le.
 ### 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
 ###
